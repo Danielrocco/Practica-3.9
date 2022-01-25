@@ -1,0 +1,50 @@
+h3.plantilla {
+    color: orange;
+}
+
+h1.plantilla {
+    color: orange;
+}
+
+h2.plantilla {
+    color: orange;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+}
+
+a.taquillas {
+    color: orange;
+    text-align: center;
+}
+
+a.plantilla {
+    color: orange;
+} 
+
+h2.texto {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+a.contacto {
+    color: orange;
+}
+
+img.logo {
+    float: left;
+}
+
+img.logo2 {
+    float: right;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
